@@ -1,0 +1,9 @@
+jax
+jaxlib
+flax
+optax
+numpy
+pandas
+matplotlib
+scikit-learn
+pytest
